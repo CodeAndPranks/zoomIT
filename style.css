@@ -1,0 +1,20 @@
+html,
+body {
+    animation: adjustHue 10s alternate infinite;
+    font-family: "Comic Sans MS", cursive, sans-serif !important;
+    transform: rotateZ(3deg);
+    background-color:red;
+}
+
+@keyframes adjustHue {
+    0% { filter: hue-rotate(0deg); }
+    100% { filter: hue-rotate(360deg); }
+}
+
+@keyframes grow {
+    to { font-size: 200px; }
+}
+
+h1, h2 , p {
+    animation: grow 20s linear forwards;
+}
