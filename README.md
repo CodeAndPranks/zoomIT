@@ -1,2 +1,2 @@
-# ZoomOut Is a css Zoom ,colur and so on.Just a prank.No browser crash.
+# ZoomIT,another Zoom,but far away froom 'Zoom'.Code fun.
 https://codeandpranks.github.io/zoomIT/
